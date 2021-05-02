@@ -12,7 +12,7 @@ import (
 	"github.com/proabiral/gorequest"
 	"github.com/proabiral/inception/helpers"
 	"golang.org/x/net/publicsuffix"
-	"gopkg.in/go-playground/validator.v10"
+	"gopkg.in/go-playground/validator/v10"
 	"io"
 	"io/ioutil"
 	"log"
